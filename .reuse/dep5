@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: SMRC-logos
+Upstream-Contact: Matthew Nickson <contact@sidingsmedia.com>
+Source: https://github.com/SidingsMedia/SMRC-logos
+
+Files: .github/workflows/*
+Copyright: Copyright (c) 2021 Sidings Media
+License: CC0-1.0
+
+Files: track*
+Copyright: Copyright (c) 2021 Sidings Media
+License: CC-BY-SA-4.0
