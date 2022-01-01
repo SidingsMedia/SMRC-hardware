@@ -61,8 +61,6 @@ Wire Wire Line
 	1100 1150 1150 1150
 Wire Wire Line
 	1150 1150 1150 1250
-Wire Wire Line
-	1100 1050 1150 1050
 Text Label 1800 5150 1    50   ~ 0
 POWER_IN
 Wire Wire Line
@@ -101,8 +99,6 @@ Wire Wire Line
 	2150 1150 2200 1150
 Wire Wire Line
 	2150 1050 2200 1050
-Text GLabel 1150 1050 2    50   Input ~ 0
-POWER_IN
 Text Label 2200 1050 0    50   ~ 0
 12V_IN
 $Comp
@@ -924,4 +920,8 @@ F 3 "" H 8650 2200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8650 2350 8650 2200
+Wire Wire Line
+	1100 1050 1150 1050
+Text Label 1150 1050 0    50   ~ 0
+POWER_IN
 $EndSCHEMATC
