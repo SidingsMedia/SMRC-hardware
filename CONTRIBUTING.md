@@ -1,5 +1,5 @@
 <!-- 
-SPDX-FileCopyrightText: Copyright (c) 2021 Sidings Media 
+SPDX-FileCopyrightText: Copyright (c) 2021 Matthew Nickson 
 
 SPDX-License-Identifier: CC0-1.0
 -->
