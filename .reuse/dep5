@@ -4,5 +4,9 @@ Upstream-Contact: Matthew Nickson <contact@sidingsmedia.com>
 Source: https://github.com/SidingsMedia/SMRC-hardware
 
 Files: .github/workflows/*
-Copyright: Copyright (c) 2021 Matthew Nickson
+Copyright: Copyright (c) 2022 Matthew Nickson
 License: CC0-1.0
+
+Files: boards/*
+Copyright: Copyright (c) 2022 Matthew Nickson
+License: CC-BY-SA-4.0
