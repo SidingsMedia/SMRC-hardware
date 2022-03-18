@@ -324,6 +324,14 @@
     [
       "231cc77b-5131-4012-aaf5-7da506ac6a57",
       "Power"
+    ],
+    [
+      "29939343-0bb1-4b43-b3b0-44cc3beab70b",
+      "Network"
+    ],
+    [
+      "2c96bf04-fb65-4c02-b7e7-46a9aa93f831",
+      "SD card"
     ]
   ],
   "text_variables": {}
