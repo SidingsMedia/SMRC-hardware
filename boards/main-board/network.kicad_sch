@@ -6,8 +6,8 @@
 
   (title_block
     (title "Main Board")
-    (date "2022-03-18")
-    (rev "V1.1.1")
+    (date "2022-03-19")
+    (rev "V1.1.2")
     (company "Matthew Nickson")
     (comment 1 "Licence: CC-BY-SA-4.0")
   )
@@ -1447,7 +1447,6 @@
       )
     )
   )
-
 
   (junction (at 210.82 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 0479aa28-e997-4a61-890f-8091331789b7)
