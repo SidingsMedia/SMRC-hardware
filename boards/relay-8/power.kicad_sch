@@ -1,13 +1,13 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 56709020-87cd-421a-9d35-bdea60acc54f)
+  (uuid 34db44af-f478-4ccc-9ca1-3345da91a1dd)
 
   (paper "A4")
 
   (title_block
     (title "8 Channel Relay")
     (date "2022-03-20")
-    (rev "1.0.1")
+    (rev "1.1.0")
     (company "Matthew Nickson")
     (comment 1 "Licence: CC-BY-SA-4.0")
   )
@@ -344,6 +344,7 @@
       )
     )
   )
+
 
   (junction (at 143.51 36.83) (diameter 0) (color 0 0 0 0)
     (uuid 57bee3e3-89f4-474a-a9c6-99cbb16075f8)
@@ -686,7 +687,7 @@
   (symbol (lib_id "power:+12V") (at 59.69 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e6acf959-1004-4ea8-b14f-9f5a5417d645)
-    (property "Reference" "#PWR?" (id 0) (at 59.69 30.48 0)
+    (property "Reference" "#PWR0101" (id 0) (at 59.69 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (id 1) (at 59.69 23.0655 0))
