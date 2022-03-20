@@ -1668,6 +1668,9 @@
     (path "/76c9a036-4972-4a63-ba31-167600f203e3/e5c46dd6-0f0e-41e0-96d1-40ebade5e823"
       (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
     )
+    (path "/5f98f70e-ffd0-4082-8429-706e870aabe9/e6acf959-1004-4ea8-b14f-9f5a5417d645"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
     (path "/002dd667-a3f3-4fca-97d8-88d06bff24c3"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:CP_Elec_4x3")
     )
