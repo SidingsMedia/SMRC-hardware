@@ -6,8 +6,8 @@
 
   (title_block
     (title "8 Channel Relay")
-    (date "2022-03-19")
-    (rev "1.0.0")
+    (date "2022-03-20")
+    (rev "1.0.1")
     (company "Matthew Nickson")
     (comment 1 "Licence: CC-BY-SA-4.0")
   )
@@ -1643,6 +1643,30 @@
     )
     (path "/76c9a036-4972-4a63-ba31-167600f203e3/c12cd3a3-968f-41f1-9177-0b5536c19870"
       (reference "#PWR020") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/0a67060e-bcad-433a-8837-fc48117b8e28"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/12ab1597-cffa-49cf-8fa1-e11ac7713952"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/1fd95032-03a5-429d-a4f5-0d4de653204f"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/2c59c54b-6314-499d-a096-980fb2d8bfa8"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/40865407-f755-41aa-a9bc-d407fc5fdd0f"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/5a573c7a-bdea-4826-89f5-169141cbe646"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/b66e32e7-6140-412b-a985-9d269e35f565"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/76c9a036-4972-4a63-ba31-167600f203e3/e5c46dd6-0f0e-41e0-96d1-40ebade5e823"
+      (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
     )
     (path "/002dd667-a3f3-4fca-97d8-88d06bff24c3"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:CP_Elec_4x3")

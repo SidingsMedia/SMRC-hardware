@@ -1,13 +1,13 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 97d9c7b5-ba5d-46d3-885a-d5edca3aa3f9)
+  (uuid 82a8d8b5-4dfc-4478-a58e-0a78787e0bbe)
 
   (paper "A4")
 
   (title_block
     (title "8 Channel Relay")
-    (date "2022-03-19")
-    (rev "1.0.0")
+    (date "2022-03-20")
+    (rev "1.0.1")
     (company "Matthew Nickson")
     (comment 1 "Licence: CC-BY-SA-4.0")
   )
